@@ -17,6 +17,6 @@ Contents
 --------
 
 .. toctree::
-
+   contact
    usage
    api
